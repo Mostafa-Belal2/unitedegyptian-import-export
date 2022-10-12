@@ -1,0 +1,880 @@
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51ostz0rdg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8s51ostz0rdg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6Fostz0rdom9.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8s6Fostz0rdom9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6Vostz0rdom9.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8s6Vostz0rdom9.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQbjB_mQ.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQbjB_mQ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz0dL-vwnYh2eg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz0dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz4dL-vwnYh2eg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz4dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz8dL-vwnYh2eg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz8dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzMdL-vwnYh2eg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzMdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdL-vwnYh2eg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzwdL-vwnYh2eg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzwdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc1CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc2CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc3CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc5CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTYl4BOQ3o.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxEIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxFIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxHIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxLIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xEIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xHIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xLIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIXKMnyrYk.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4AMP6lbBP.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\s\robotoslab\v24\BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-204704110-1
+File Name: D:\isma3l-work\www.elkhnizy.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/
+File Name: D:\isma3l-work\www.elkhnizy.com\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/about/
+File Name: D:\isma3l-work\www.elkhnizy.com\about\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/comments/feed/
+File Name: D:\isma3l-work\www.elkhnizy.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.elkhnizy.com/contact-us/
+File Name: D:\isma3l-work\www.elkhnizy.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/feed/
+File Name: D:\isma3l-work\www.elkhnizy.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.elkhnizy.com/home/feed/
+File Name: D:\isma3l-work\www.elkhnizy.com\home\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.elkhnizy.com/products/
+File Name: D:\isma3l-work\www.elkhnizy.com\products\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/products/onions/
+File Name: D:\isma3l-work\www.elkhnizy.com\products\onions\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/products/oranges/
+File Name: D:\isma3l-work\www.elkhnizy.com\products\oranges\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/products/potatoes/
+File Name: D:\isma3l-work\www.elkhnizy.com\products\potatoes\index.htm
+Content Type: text/html
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-footer-18f82a1f.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-footer-18f82a1f.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-footer-472f0660.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-footer-472f0660.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-footer-657a3def.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-footer-657a3def.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-footer-67d131b8.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-footer-67d131b8.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-footer-929b1acd.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-footer-929b1acd.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-footer-a7e51888.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-footer-a7e51888.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-1c356a24.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-1c356a24.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-1d4c6a27.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-1d4c6a27.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-1f6f7ad0.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-1f6f7ad0.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-57a175e4.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-57a175e4.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-8a2855c8.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-8a2855c8.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-8a6a55ca.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-8a6a55ca.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-8a8a55cb.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-8a8a55cb.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-dae215d0.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-dae215d0.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/cache/wpo-minify/1664791103/assets/wpo-minify-header-f5340c16.min.js
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\cache\wpo-minify\1664791103\assets\wpo-minify-header-f5340c16.min.js
+Content Type: application/javascript
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/gtranslate/16.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\gtranslate\16.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/gtranslate/16a.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\gtranslate\16a.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/gtranslate/alt_flags.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\gtranslate\alt_flags.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/gtranslate/alt_flagsa.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\gtranslate\alt_flagsa.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/gtranslate/gtglobe.svg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\gtranslate\gtglobe.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: https://www.elkhnizy.com/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/agriculture-food-fresh-72254.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\agriculture-food-fresh-72254.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/cropped-elkhnizy-Logo_No-background-180x180.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\cropped-elkhnizy-Logo_No-background-180x180.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/cropped-elkhnizy-Logo_No-background-192x192.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\cropped-elkhnizy-Logo_No-background-192x192.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/cropped-elkhnizy-Logo_No-background-32x32.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\cropped-elkhnizy-Logo_No-background-32x32.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/flower-of-potato-potato-field-potatoes-2458090.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\flower-of-potato-potato-field-potatoes-2458090.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/grape-crop-wine-2002848.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\grape-crop-wine-2002848.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/grapes-sun-sunbeam-3550733.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\grapes-sun-sunbeam-3550733.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/lemon-limone-lemon-tree-1117568.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\lemon-limone-lemon-tree-1117568.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/elkhnizy-Logo_No-background_1.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\elkhnizy-Logo_No-background_1.png
+Content Type: image/svg+xml
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/market-stand-vegetables-601580.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\market-stand-vegetables-601580.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/onion-why-roots-1565604.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\onion-why-roots-1565604.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/oranges-citrus-fruits-fruits-1995056.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\oranges-citrus-fruits-fruits-1995056.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/pomegranate-pips-fruit-3687590.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\pomegranate-pips-fruit-3687590.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/07/telephone-contact-us-call-4440525.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\07\telephone-contact-us-call-4440525.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/08/clover-leaves-green-1225988.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\08\clover-leaves-green-1225988.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/08/coming-soon-coming-soon-1898936-768x480.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\08\coming-soon-coming-soon-1898936-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/08/coming-soon-coming-soon-1898936.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\08\coming-soon-coming-soon-1898936.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/08/groceries-fruit-fruit-haul-1343147.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\08\groceries-fruit-fruit-haul-1343147.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/allium-4106528.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\allium-4106528.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Onions-768x644.gif
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Onions-768x644.gif
+Content Type: image/gif
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Onions.gif
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Onions.gif
+Content Type: image/gif
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/orange-trees-1149584.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\orange-trees-1149584.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Oranges-768x644.gif
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Oranges-768x644.gif
+Content Type: image/gif
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Oranges.gif
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Oranges.gif
+Content Type: image/gif
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/potato-6321127.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\potato-6321127.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Potatoes-768x644.gif
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Potatoes-768x644.gif
+Content Type: image/gif
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Potatoes.gif
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Potatoes.gif
+Content Type: image/gif
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/2021/09/Untitled-design-2.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\2021\09\Untitled-design-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/agriculture-food-fresh-72254-paqpq23lt7zn8gz8bk6imigukm8voymvjsoejup3q0.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\agriculture-food-fresh-72254-paqpq23lt7zn8gz8bk6imigukm8voymvjsoejup3q0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/agriculture-food-fresh-72254-paqpq23p3mrbn8w67lhby9rg9a1y08v1enpdtg01ls.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\agriculture-food-fresh-72254-paqpq23p3mrbn8w67lhby9rg9a1y08v1enpdtg01ls.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/elkhnizy-Logo_No-background-paoyn9o2ia7vojcc119raap0wihkjzzf7aiu6mx9gg.png
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\elkhnizy-Logo_No-background-paoyn9o2ia7vojcc119raap0wihkjzzf7aiu6mx9gg.png
+Content Type: image/png
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/onion-why-roots-1565604-paqpt271n63mbmm7scwm396uvxg3a5k0anp8qo8tug.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\onion-why-roots-1565604-paqpt271n63mbmm7scwm396uvxg3a5k0anp8qo8tug.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/onion-why-roots-1565604-paqpt274xkvaqej5oe7ff0hgkl95lfs65iq809jrq8.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\onion-why-roots-1565604-paqpt274xkvaqej5oe7ff0hgkl95lfs65iq809jrq8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/oranges-citrus-fruits-fruits-1995056-paqprjoems0zm8tempc92my4fkwsvpjkr5v2wmhnvc.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\oranges-citrus-fruits-fruits-1995056-paqprjoems0zm8tempc92my4fkwsvpjkr5v2wmhnvc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/oranges-citrus-fruits-fruits-1995056-paqprjohx6so10qciqn2ee8q48pv6zrqm0w267slr4.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\oranges-citrus-fruits-fruits-1995056-paqprjohx6so10qciqn2ee8q48pv6zrqm0w267slr4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/salad-tomatoes-onion-2834091-paqpo98u02aje5idqbg2o84n9oxm94pk5qovpco7j4.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\salad-tomatoes-onion-2834091-paqpo98u02aje5idqbg2o84n9oxm94pk5qovpco7j4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-content/uploads/elementor/thumbs/tangerines-tree-satsuma-1208301-paqpfqtg42n299vhfmzp3dgdm2vyjsx2bm0l95ajvk.jpg
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-content\uploads\elementor\thumbs\tangerines-tree-satsuma-1208301-paqpfqtg42n299vhfmzp3dgdm2vyjsx2bm0l95ajvk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.elkhnizy.com/wp-includes/wlwmanifest.xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.elkhnizy.com/wp-json/
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fabout%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fabout%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fcontact-us%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fcontact-us%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2Fonions%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2Fonions%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2Foranges%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2Foranges%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2Fpotatoes%2F
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.elkhnizy.com%2Fproducts%2Fpotatoes%2F&format=xml
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/1895
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\1895
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/2015
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\2015
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/2021
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\2021
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/2023
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\2023
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/71
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\71
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/73
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\73
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/wp-json/wp/v2/pages/74
+File Name: D:\isma3l-work\www.elkhnizy.com\wp-json\wp\v2\pages\74
+Content Type: application/json
+
+Uri: https://www.elkhnizy.com/xmlrpc.php?rsd
+File Name: D:\isma3l-work\www.elkhnizy.com\xmlrpc.php
+Content Type: text/xml
+
