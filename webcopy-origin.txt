@@ -638,12 +638,12 @@ Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/agriculture-food
 File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\agriculture-food-fresh-72254.jpg
 Content Type: image/jpeg
 
-Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/cropped-unitedEgyptian-logo_No-background-180x180.jpg
-File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\cropped-unitedEgyptian-logo_No-background-180x180.jpg
+Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/cropped-unitedEgyptian-logo_No-background-180x180.jpeg
+File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\cropped-unitedEgyptian-logo_No-background-180x180.jpeg
 Content Type: image/png
 
-Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/cropped-unitedEgyptian-logo_No-background-192x192.jpg
-File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\cropped-unitedEgyptian-logo_No-background-192x192.jpg
+Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/cropped-unitedEgyptian-logo_No-background-192x192.jpeg
+File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\cropped-unitedEgyptian-logo_No-background-192x192.jpeg
 Content Type: image/png
 
 Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/cropped-unitedEgyptian-logo_No-background-32x32.png
@@ -666,8 +666,8 @@ Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/lemon-limone-lem
 File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\lemon-limone-lemon-tree-1117568.jpg
 Content Type: image/jpeg
 
-Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/unitedEgyptian-logo_No-background_1.jpg
-File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\unitedEgyptian-logo_No-background_1.jpg
+Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/unitedEgyptian-logo_No-background_1.jpeg
+File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\unitedEgyptian-logo_No-background_1.jpeg
 Content Type: image/svg+xml
 
 Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/market-stand-vegetables-601580.jpg
@@ -754,8 +754,8 @@ Uri: https://www.united-egyptian.com/wp-content/uploads/elementor/thumbs/agricul
 File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\elementor\thumbs\agriculture-food-fresh-72254-paqpq23p3mrbn8w67lhby9rg9a1y08v1enpdtg01ls.jpg
 Content Type: image/jpeg
 
-Uri: https://www.united-egyptian.com/wp-content/uploads/elementor/thumbs/unitedEgyptian-logo_No-background-paoyn9o2ia7vojcc119raap0wihkjzzf7aiu6mx9gg.png
-File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\elementor\thumbs\unitedEgyptian-logo_No-background-paoyn9o2ia7vojcc119raap0wihkjzzf7aiu6mx9gg.png
+Uri: https://www.united-egyptian.com/wp-content/uploads/elementor/thumbs/unitedEgyptian-Logo_No-background-paoyn9o2ia7vojcc119raap0wihkjzzf7aiu6mx9gg.jpeg
+File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\elementor\thumbs\unitedEgyptian-Logo_No-background-paoyn9o2ia7vojcc119raap0wihkjzzf7aiu6mx9gg.jpeg
 Content Type: image/png
 
 Uri: https://www.united-egyptian.com/wp-content/uploads/elementor/thumbs/onion-why-roots-1565604-paqpt271n63mbmm7scwm396uvxg3a5k0anp8qo8tug.jpg
