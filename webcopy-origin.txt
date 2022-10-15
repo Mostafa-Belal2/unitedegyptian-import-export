@@ -666,8 +666,8 @@ Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/lemon-limone-lem
 File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\lemon-limone-lemon-tree-1117568.jpg
 Content Type: image/jpeg
 
-Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/unitedEgyptian-logo_No-background_1.jpeg
-File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\unitedEgyptian-logo_No-background_1.jpeg
+Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/unitedEgyptian-logo_No-background_1.png
+File Name: D:\isma3l-work\www.united-egyptian.com\wp-content\uploads\2021\07\unitedEgyptian-logo_No-background_1.png
 Content Type: image/svg+xml
 
 Uri: https://www.united-egyptian.com/wp-content/uploads/2021/07/market-stand-vegetables-601580.jpg
